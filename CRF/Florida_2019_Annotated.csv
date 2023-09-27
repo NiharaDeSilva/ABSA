@@ -1,0 +1,138 @@
+Rating,Review_Text,Review_ID,Subjectivity,Review_Text_Annotated
+5,If you go to Universal Studios on a VIP tour I highly recommend requesting DJ for your guide,1,0,If you go to Universal Studios on a VIP tour I highly recommend requesting DJ for your guide
+5, He is full of knowledge and very entertaining,1,0, He is full of knowledge and very entertaining
+5, He reminds of famous radio legend Casey Casum,1,0, He reminds of famous radio legend Casey Casum
+5, The VIP tour was definitely worth it,1,1, The<OTHER> VIP<ASPECT-B> tour<ASPECT-I> was<OTHER> definitely<OP_POS-B> worth<OP_POS-I> it<OTHER>
+5,This is for young and old Really cool especially the Harry Potter part,2,1,This<OTHER> is<OTHER> for<OTHER> young<OTHER> and<OTHER> old<OTHER> Really<OP_POS-B> cool<OP_POS-I> especially<ASPECT-B> the<OTHER> Harry<ASPECT-B> Potter<ASPECT-B> part<ASPECT-B>
+5, Enough to eat to see and to enjoy,2,1, Enough<OP_POS-I> to<OTHER> eat<OP_POS-I> to<OTHER> see<OP_POS-I> and<OTHER> to<OTHER> enjoy<OP_POS-I> 
+4,Much less crowded than Epcot but Universal lacks the Disney magic,3,1,Much<OP_POS-B> less<OP_POS-I> crowded<OP_POS-I> than<OTHER> Epcot<OTHER> but<OTHER> Universal<ASPECT-I> lacks<OP_NEG-B> the<OTHER> Disney<OTHER> magic<ASPECT-I>
+4, Every ride was a stomach churner for those who suffer motion sickness so we were left with not much to do except that we absolutely adored the Harry Potter Diagon Alley,3,1, Every<ASPECT-B> ride<ASPECT-I> was<OTHER> a<OTHER> stomach<OP_NEG-B> churner<OP_NEG-I> for<OTHER> those<OTHER> who<OTHER> suffer<OTHER> motion<OTHER> sickness<OTHER> so<OTHER> we<OTHER> were<OTHER> left<OTHER> with<OTHER> not<OP_NEG-B> much<OP_NEG-I> to<OTHER> do<ASPECT-I> except<OTHER> that<OTHER> we<OTHER> absolutely<OP_POS-B> adored<OP_POS-I> the<OTHER> Harry<ASPECT-B> Potter<ASPECT-B> Diagon<ASPECT-I> Alley<ASPECT-I>
+4, It was so much fun to see everyone running around in their black robes waving wands and casting spells,3,1, It<OTHER> was<OTHER> so<OP_POS-B> much<OP_POS-I> fun<OP_POS-I> to<OTHER> see<ASPECT-I> everyone<OTHER> running<OTHER> around<OTHER> in<OTHER> their<OTHER> black<OTHER> robes<OTHER> waving<OTHER> wands<OTHER> and<OTHER> casting<OTHER> spells<OTHER>
+4, The dragon sitting atop the tower breathes fire every so often which was great,3,1, The<OTHER> dragon<ASPECT-I> sitting<OTHER> atop<OTHER> the<OTHER> tower<OTHER> breathes<OTHER> fire<OTHER> every<OTHER> so<OTHER> often<OTHER> which<OTHER> was<OTHER> great<OP_POS-I>
+4, And they sell butterbeer It was also fun to see groups of Universal Studio charactersthe Simpsons Scoobie Doo and his gang and others,3,1, And<OTHER> they<OTHER> sell<OTHER> butterbeer<OTHER> It<OTHER> was<OTHER> also<OTHER> fun<OP_POS-I> to<OTHER> see<ASPECT-I> groups<OTHER> of<OTHER> Universal<ASPECT-I> Studio<ASPECT-I> characters<ASPECT-I> the<OTHER> Simpsons<OTHER> Scoobie<OTHER> Doo<OTHER> and<OTHER> his<OTHER> gang<OTHER> and<OTHER> others<OTHER>
+4, The Men In Black ride was lots of fun although it triggered nausea and I assume the rest of the rides were also fun,3,1, The<OTHER> Men<OTHER> In<OTHER> Black<OTHER> ride<ASPECT-I> was<OTHER> lots<OP_POS-B> of<OTHER> fun<OP_POS-I> although<OTHER> it<OTHER> triggered<OTHER> nausea<OP_NEG-I> and<OTHER> I<OTHER> assume<OTHER> the<OTHER> rest<ASPECT-B> of<OTHER> the<OTHER> rides<ASPECT-I> were<OTHER> also<OTHER> fun<OP_POS-I>
+4, Try this park if you cant face the crowds at Epcot,3,0, Try this park if you cant face the crowds at Epcot
+5,We enjoyed staying at Portofino Bay,4,1,We<OTHER> enjoyed<OP_POS-I> staying<ASPECT-I> at<OTHER> Portofino<ASPECT-B> Bay<ASPECT-I>
+5, Wonderful Hotel but also enjoyed the Express Pass that went with it,4,1,Wonderful<OP_POS-I> Hotel<ASPECT-I> but<OTHER> also<OTHER> enjoyed<OP_POS-I> the<OTHER> Express<ASPECT-B> Pass<ASPECT-I> that<OTHER> went<OTHER> with<OTHER> it<OTHER>
+5, We were able to skip so many very long lines,4,0, We were able to skip so many very long lines
+5, There are a lot of 3D and Simulators,4,0, There are a lot of 3D and Simulators
+5, But they are enjoyable,4,1, But<OTHER> they<ASPECT-I> are<OTHER> enjoyable<OP_POS-I>
+5, The detail that is put into the environment is probably my favorite part,4,1, The<OTHER> detail<OTHER> that<OTHER> is<OTHER> put<OTHER> into<OTHER> the<OTHER> environment<ASPECT-I> is<OTHER> probably<OTHER> my<OTHER> favorite<OP_POS-I> part<OTHER>
+5, its like walking into the movies,4,0, its like walking into the movies
+5, Highly recommend,4,0, Highly recommend
+5,My family LOVED Volcano Bay,5,1,My<OTHER> family<OTHER> LOVED<OP_POS-I> Volcano<ASPECT-B> Bay<ASPECT-I>
+5, Loved,5,1, Loved<OP_POS-I>
+5, Everyone had such an amazing time there were activities for all of us 5 people,5,1, Everyone<OTHER> had<OTHER> such<OTHER> an<OTHER> amazing<OP_POS-I> time<ASPECT-I> there<OTHER> were<OTHER> activities<ASPECT-I> for<OTHER> all<OTHER> of<OTHER> us<OTHER> 5<OTHER> people<OTHER>
+5, My thrill seekers loved the drop water slides while my oldest and I found our happy place with the water coaster and wave pool,5,1, My<OTHER> thrill<OTHER> seekers<OTHER> loved<OP_POS-I> the<OTHER> drop<OTHER> water<ASPECT-I> slides<ASPECT-I> while<OTHER> my<OTHER> oldest<OTHER> and<OTHER> I<OTHER> found<OTHER> our<OTHER> happy<OP_POS-I> place<OTHER> with<OTHER> the<OTHER> water<ASPECT-I> coaster<ASPECT-I> and<OTHER> wave<ASPECT-I> pool<ASPECT-I>
+5, The staff were helpful and pleasant particularly Carl,5,1, The<OTHER> staff<ASPECT-I> were<OTHER> helpful<OP_POS-I> and<OTHER> pleasant<OP_POS-I> particularly<OTHER> Carl<OTHER>
+5, We met Carl our first day assisting with lockers and again another day offering help to those who needed it,5,0, We met Carl our first day assisting with lockers and again another day offering help to those who needed it
+5, When we booked our trip going to Volcano Bay was not high on our priority list as it felt like an unneeded bonus to Universal Studios and Islands of Adventure,5,0, When we booked our trip going to Volcano Bay was not high on our priority list as it felt like an unneeded bonus to Universal Studios and Islands of Adventure
+5, It quickly became a favorite and was our first stop Christmas morning Highly recommend for anyone one the fence about going to Volcano Bay,5,1, It<OTHER> quickly<OTHER> became<OTHER> a<OTHER> favorite<OP_POS-I> and<OTHER> was<OTHER> our<OTHER> first<OTHER> stop<OTHER> Christmas<OTHER> morning<OTHER> Highly<OP_POS-B> recommend<OP_POS-I> for<OTHER> anyone<OTHER> one<OTHER> the<OTHER> fence<OTHER> about<OTHER> going to<OTHER> Volcano<ASPECT-B> Bay<ASPECT-I>
+5,do it PS We had no little ones 9 was our youngest but it seemed there was plenty for them to do,5,1,do<OTHER> it<OTHER> PS<OTHER> We<OTHER> had<OTHER> no<OTHER> little<OTHER> ones<OTHER> 9<OTHER> was<OTHER> our<OTHER> youngest<OTHER> but<OTHER> it<OTHER> seemed<OTHER> there<OTHER> was<OTHER> plenty<OP_POS-I> for<OTHER> them<OTHER> to<OTHER> do<ASPECT-I>
+5, Yes there were rides that catered to older kids and up but the area for the littles looked fun,5,1, Yes<OTHER> there<OTHER> were<OTHER> rides<ASPECT-I> that<OTHER> catered<OP_POS-I> to<OTHER> older<OTHER> kids<OTHER> and<OTHER> up<OTHER> but<OTHER> the<OTHER> area<ASPECT-I> for<OTHER> the<OTHER> littles<OTHER> looked<OTHER>  fun<OP_POS-I>
+5, Im sure if our kids were younger they would have still enjoyed Volcano Bay,5,1, Im<OTHER> sure<OTHER> if<OTHER> our<OTHER> kids<OTHER> were<OTHER> younger<OTHER> they<OTHER> would<OTHER> have<OTHER> still<OTHER> enjoyed<OP_POS-I> Volcano<ASPECT-I> Bay<ASPECT-I>
+4,I enjoy Universal Studios very much and knew that the lines would be bad the week of Christmas so we splurged for VIP tours,6,1,I<OTHER> enjoy<OP_POS-I> Universal<ASPECT-I> Studios<ASPECT-I> very<OTHER> much<OTHER> and<OTHER> knew<OTHER> that<OTHER> the<OTHER> lines<OTHER> would<OTHER> be<OTHER> bad<OTHER> the<OTHER> week<OTHER> of<OTHER> Christmas<OTHER> so<OTHER> we<OTHER> splurged<OTHER> for<OTHER> VIP<OTHER> tours<OTHER>
+4, We had 9 in our family and had to break into 2 groups or we would have been charged for a private tour,6,0, We had 9 in our family and had to break into 2 groups or we would have been charged for a private tour
+4, We had DJ as our tour guide and he took us to the front of the line on lots of rides in both parks,6,0, We had DJ as our tour guide and he took us to the front of the line on lots of rides in both parks
+4, He told us some interesting things and took us on the quick backlot route between the parks,6,0, He told us some interesting things and took us on the quick backlot route between the parks
+4, We didnt get to see anything about how rides workedthe other family group did,6,0, We didnt get to see anything about how rides workedthe other family group did
+4, DJ did help our group get on Hagrids ride at the end of our tour as it started to rain Our tour included breakfast but we only had 10 min,6,0, DJ did help our group get on Hagrids ride at the end of our tour as it started to rain Our tour included breakfast but we only had 10 min
+4, to eat because we didnt know how much time it would take to park  get checked inallow an hour,6,0, to eat because we didnt know how much time it would take to park  get checked inallow an hour
+4, It also included a fabulous lunch,6,1, It<OTHER> also<OTHER> included<OTHER> a<OTHER> fabulous<OP_POS-I> lunch<ASPECT-I>
+4, My only complaint is that my husband who is a big  tall guy fits on every ride at Disney and almost nothing at Universal,6,1, My<OTHER> only<OTHER> complaint<OP_NEG-I> is<OTHER> that<OTHER> my<OTHER> husband<OTHER> who<OTHER> is<OTHER> a<OTHER> big<OTHER>  tall<OTHER> guy<OTHER> fits<OTHER> on<OTHER> every<OTHER> ride<ASPECT-I> at<OTHER> Disney<OTHER> and<OTHER> almost<OTHER> nothing<OP_NEG-I> at<OTHER> Universal<ASPECT-I>
+4, I know the ride engineers have to design seats for all body sizes but I would like to see a bigger seat put in so they can ride too,6,0, I know the ride engineers have to design seats for all body sizes but I would like to see a bigger seat put in so they can ride too
+5,We had an amazing time last week at Universal Studios,7,1,We<OTHER> had<OTHER> an<OTHER> amazing<OP_POS-I> time<ASPECT-I> last<OTHER> week<OTHER> at<OTHER> Universal<ASPECT-I> Studios<ASPECT-I>
+5, With the exception of a few rides we were able to do everything we wanted while there,7,0, With the exception of a few rides we were able to do everything we wanted while there
+5, My family had five day tickets for all three parks,7,0, My family had five day tickets for all three parks
+5, We did not purchase the express pass for our visit we contemplated doing it for at least one day but mainly relied on the Universal app for wait times,7,0, We did not purchase the express pass for our visit we contemplated doing it for at least one day but mainly relied on the Universal app for wait times
+5, Ride times varied we had to check the app often but it was worth it,7,0, Ride times varied we had to check the app often but it was worth it
+5, We also utilized the singlerider lines for shorter wait times,7,0, We also utilized the singlerider lines for shorter wait times
+5, Our only complaint  the Fast and the Furious ride was a disappointment,7,1, Our<OTHER> only<OTHER> complaint<OP_NEG-I>  the<OTHER> Fast<ASPECT-B> and<OTHER> the<OTHER> Furious<ASPECT-B> ride<ASPECT-I> was<OTHER> a<OTHER> disappointment<OP_NEG-I>
+5, It was confusing short and very lackluster,7,1, It<OTHER> was<OTHER> confusing<OP_NEG-B> short<OP_NEG-I> and<OTHER> very<OP_NEG-B> lackluster<OP_NEG-I>
+5, If its a must do for your visit  by all means go for it,7,0, If its a must do for your visit  by all means go for it
+5, My family enjoyed all of the holiday decorations and the parade,7,1, My<OTHER> family<OTHER> enjoyed<OP_POS-I> all<OTHER> of<OTHER> the<OTHER> holiday<ASPECT-B> decorations<ASPECT-I> and<OTHER> the<OTHER> parade<ASPECT-I>
+5, Our Warm Christmas was a success  and we look forward to hopefully doing it again,7,0, Our Warm Christmas was a success  and we look forward to hopefully doing it again
+5,The parks are smaller than Disney Parks but there is just as much fun,8,1,The<OTHER> parks<ASPECT-I> are<OTHER> smaller<OP_NEG-I> than<OTHER> Disney<OTHER> Parks<OTHER> but<OTHER> there<OTHER> is<OTHER> just<OTHER> as<OTHER> much<OP_NEG-B> fun<OP_POS-I>
+5, Lots of things and rides to see and do,8,1, Lots<OP_POS-I> of<OTHER> things<ASPECT-I> and<OTHER> rides<ASPECT-I> to<OTHER> see<OP_POS-I> and<OTHER> do<OP_POS-I>
+5, Highly recommend,8,1, Highly<OP_POS-B> recommend<OP_POS-I>
+5,We stopped for one day and got the park hopper ticket to get as much as we could out of it,9,0,We stopped for one day and got the park hopper ticket to get as much as we could out of it
+5, It was holiday break and a day before new years eve so we knew it would be crowded,9,0, It was holiday break and a day before new years eve so we knew it would be crowded
+5, We only got in about 6 rides due to lines was still good but I thin I would only buy a single park ticket in the future,9,0, We only got in about 6 rides due to lines was still good but I thin I would only buy a single park ticket in the future
+5,Great adventure by the family,10,1,Great<OP_POS-I> adventure<ASPECT-I> by<OTHER> the<OTHER> family<OTHER>
+5, Family friendly and fun place to visit,10,1, Family<OP_POS-B> friendly<OP_POS-I> and<OTHER> fun<OP_POS-I> place<ASPECT-I> to<OTHER> visit<OTHER>
+5, Love the settings and the ease of going around,10,1, Love<OP_POS-I> the<OTHER> settings<ASPECT-I> and<OTHER> the<OTHER> ease<OP_POS-I> of<OTHER> going<ASPECT-B> around<ASPECT-I>
+5,We had 3 day 3 park tickets,11,0,We had 3 day 3 park tickets
+5, We didnt go to Volcano Bay so that gave us extra time at the other two parks,11,0, We didnt go to Volcano Bay so that gave us extra time at the other two parks
+5, We mainly spent a lot of time in Harry Potter areas,11,0, We mainly spent a lot of time in Harry Potter areas
+5, I didnt go on that many rides but my daughter and her friend went on most of them,11,0, I didnt go on that many rides but my daughter and her friend went on most of them
+5, They avoided the Hulk one though,11,0, They avoided the Hulk one though
+5, I went on the Jurassic Park ride and nearly had heart attack The light show at night was magical,11,1, I<OTHER> went<OTHER> on<OTHER> the<OTHER> Jurassic<ASPECT-B> Park<ASPECT-B> ride<ASPECT-I> and<OTHER> nearly<OTHER> had<OTHER> heart<OP_POS-I> attack<OP_POS-I> The<OTHER> light<ASPECT-B> show<ASPECT-I> at<OTHER> night<OTHER> was<OTHER> magical<OP_POS-I>
+5, It repeats every hour after sunset so if you missed one you can wait for the next one,11,0, It repeats every hour after sunset so if you missed one you can wait for the next one
+5, We thoroughly enjoyed it,11,1, We<OTHER> thoroughly<OP_POS-B> enjoyed<OP_POS-I> it<ASPECT-I>
+5, The newest ride was either had a long que or closed every time we tried,11,0, The newest ride was either had a long que or closed every time we tried
+5, We ate at the Leaky Cauldron and Mythos,11,0, We ate at the Leaky Cauldron and Mythos
+5, the girls purchased multi day Halloween Horror night tickets and went 3 nights,11,0, the girls purchased multi day Halloween Horror night tickets and went 3 nights
+5, They said it waas fantastic,11,1, They<OTHER> said<OTHER> it<ASPECT-I> waas<OTHER> fantastic<ASPECT-I>
+5,My grandsons really enjoy Fear Factor,12,1,My<OTHER> grandsons<OTHER> really<OP_POS-B> enjoy<OP_POS-I> Fear<ASPECT-B> Factor<ASPECT-I>
+5, They came last year 2018 and loved it and it was their favorite activity again this year in 2019,12,0, They came last year 2018 and loved it and it was their favorite activity again this year in 2019
+5, When we came last year your employee Joey took a special interest in them and we took pictures with him,12,0, When we came last year your employee Joey took a special interest in them and we took pictures with him
+5, This year he asked the boys to stay afterwards and he offered to give them a tour,12,0, This year he asked the boys to stay afterwards and he offered to give them a tour
+5, It absolutely made our day,12,1, It<OTHER> absolutely<OP_POS-B> made<OP_POS-I> our<OTHER> day<ASPECT-I>
+5, Joey is one wonderful employee,12,1, Joey<OTHER> is<OTHER> one<OTHER> wonderful<OP_POS-I> employee<ASPECT-I>
+5,universa [s a grat park for familys that love thrill ride and dr suess land is a wonderful place the only drawback is it is pricey if you have a large family start saveing now it is worth it,13,1,universa<ASPECT-B> [s<OTHER> a<OTHER> grat<OP_POS-I> park<ASPECT-I> for<OTHER> familys<OTHER> that<OTHER> love<OP_POS-I> thrill<ASPECT-B> ride<ASPECT-I> and<OTHER> dr<ASPECT-B> suess<ASPECT-B> land<ASPECT-I> is<OTHER> a<OTHER> wonderful<OP_POS-I> place<ASPECT-I> the<OTHER> only<OP_NEG-B> drawback<OP_NEG-I> is<OTHER> it<OTHER> is<OTHER> pricey<ASPECT-I> if<OTHER> you<OTHER> have<OTHER> a<OTHER> large<OTHER> family<OTHER> start<OTHER> saveing<OTHER> now<OTHER> it<OTHER> is<OTHER> worth<OTHER> it<OTHER>
+4,Visited with my family including 2 kids aged 10 and 5yr old gals,14,0,Visited with my family including 2 kids aged 10 and 5yr old gals
+4, We booked for 2days2park entry,14,0, We booked for 2days2park entry
+4, We chose the universal studio and Universal Islands of Adventure,14,0, We chose the universal studio and Universal Islands of Adventure
+4, While booking we contemplated buying the express pass,14,0, While booking we contemplated buying the express pass
+4, In hindsight it was a mixed decision,14,0, In hindsight it was a mixed decision
+4, Our family was not crazy about the roller coasters but we focused on the 3D4d Let me share some valuable details 1,14,0, Our family was not crazy about the roller coasters but we focused on the 3D4d Let me share some valuable details 1
+4, Choose your hotel wisely depending on the number of days,14,0, Choose your hotel wisely depending on the number of days
+4, The hotels inside universal come with express entry,14,0, The hotels inside universal come with express entry
+4, It may work out cheaper if you do that,14,0, It may work out cheaper if you do that
+4, We had not done enough research and booked a hotel on International drive that was 10 min by Uber,14,0, We had not done enough research and booked a hotel on International drive that was 10 min by Uber
+4, We bought the 2 days 2 park pass which also gives you access to the Hogwarts express train between Universal studio and Islands of Adventure,14,0, We bought the 2 days 2 park pass which also gives you access to the Hogwarts express train between Universal studio and Islands of Adventure
+4,2,14,0,2
+4, We did not purchase the express entry as we used that day to get acclimatized with the 2 parks,14,0, We did not purchase the express entry as we used that day to get acclimatized with the 2 parks
+4, We were there at 8am sharp which was the park opening time,14,0, We were there at 8am sharp which was the park opening time
+4, If you stay at any of the universal hotels you get entry 1hr before the rest of the public,14,0, If you stay at any of the universal hotels you get entry 1hr before the rest of the public
+4, Here are some of our experiences with the rides and 3D4d experiences 3,14,0, Here are some of our experiences with the rides and 3D4d experiences 3
+4, Download the Universal app and use that for the map and choose the rides which you want to do,14,0, Download the Universal app and use that for the map and choose the rides which you want to do
+4, Add them to your favorites list in the app,14,0, Add them to your favorites list in the app
+4, The app also shows options for food,14,0, The app also shows options for food
+4,4,14,0,4
+4, Food beverages and snacks are expensive,14,1, Food<ASPECT-I> beverage<ASPECT-I>s and<OTHER> snack<ASPECT-I>s are<OTHER> expensive<OP_POS-I>
+4, Even Starbucks inside is more expensive,14,0, Even Starbucks inside is more expensive
+4, We brought 2 back packs and carried beverages and snacks and its allowed to be brought in,14,0, We brought 2 back packs and carried beverages and snacks and its allowed to be brought in
+4,5,14,0,5
+4, Bring your own lanyards from outside as the ones in the parks cost 12 dollars each,14,0, Bring your own lanyards from outside as the ones in the parks cost 12 dollars each
+4, You get to buy lanyards outside at 3 dollars or less each,14,0, You get to buy lanyards outside at 3 dollars or less each
+4, The lanyards can be used for the express passes as these are required to be scanned at all the rides,14,0, The lanyards can be used for the express passes as these are required to be scanned at all the rides
+4,5,14,0,5
+4, We bought the express pass with single entry as we wanted to do all the rides only once,14,0, We bought the express pass with single entry as we wanted to do all the rides only once
+4, The unlimited entry universal pass is only good if you like to repeat the rides,14,0, The unlimited entry universal pass is only good if you like to repeat the rides
+4,6,14,0,6
+4, We rented the large stroller for 2 days,14,0, We rented the large stroller for 2 days
+4, Each day you have to rent it separately as both our gals get tired walking very fast,14,0, Each day you have to rent it separately as both our gals get tired walking very fast
+4, So it was definitely worth the 28 dollars for each day,14,1, So<OTHER> it<ASPECT-I> was<OTHER> definitely<OP_POS-B> worth<OP_POS-I> the<OTHER> 28<OTHER> dollars<OTHER> for<OTHER> each<OTHER> day<OTHER>
+4, Single strollers are 18 dollars each day,14,0, Single strollers are 18 dollars each day
+4,7,14,0,7
+4, Photo packages are not worth it according to me,14,1,Photo<ASPECT-B> packages<ASPECT-I> are<OTHER> not<OP_NEG-B> worth<OP_NEG-I> it<OTHER> according<OTHER> to<OTHER> me<OTHER>
+4, Click your own with your phonecamera with characters around the Park,14,0, Click your own with your phonecamera with characters around the Park
+4, There are Universal staff who click your pics for free for the characters,14,0, There are Universal staff who click your pics for free for the characters
+4,8,14,0,8
+4, Express entry prices vary each day,14,0, Express entry prices vary each day
+4, If you are going during school holidays you will need them,14,0, If you are going during school holidays you will need them
+4,  In universal studios using the express pass we did 1,14,0,  In universal studios using the express pass we did 1
+4, Harry Potter and escape from Gringotts one of the best experiences,14,1,Harry<ASPECT-B> Potter<ASPECT-B> and<OTHER> escape<ASPECT-B> from<OTHER> Gringotts<OTHER> one<OTHER> of<OTHER> the<OTHER> best<OP_POS-I> experiences<ASPECT-I>
+4, My 5yr old was not allowed,14,0, My 5yr old was not allowed
+4, so we used Child swap which is amazing thing because my wife and 5yr old waited next to the ride while I did it with my 10yr old,14,0, so we used Child swap which is amazing thing because my wife and 5yr old waited next to the ride while I did it with my 10yr old
+4,once we finished my wife did it immediately,14,0,once we finished my wife did it immediately
+4, Its a great feature,14,1, Its<OTHER> a<OTHER> great<OP_POS-I> feature<ASPECT-I>
+4, Excellent and do not miss,14,0, Excellent and do not miss
+4,2,14,0,2
+4, ET only good for kids below 78,14,0, ET only good for kids below 78
+4, Very low on thrills for the rest 3,14,1, Very<OP_POS-B> low<OP_POS-I> on<OTHER> thrills<ASPECT-I> for<OTHER> the<OTHER> rest<OTHER> 3<OTHER>
+4, Transformers  good fun for all ages,14,1, Transformers<ASPECT-I>  good<OP_POS-I> fun<OP_POS-I> for<OTHER> all<OTHER> ages<OTHER>
+4,4,14,0,4
+4, Men in black good fun as you get to shoot at aliens,14,0, Men in black good fun as you get to shoot at aliens
+4, Good for all ages,14,1, Good<OP_POS-I> for<OTHER> all<OTHER> ages<OTHER>
